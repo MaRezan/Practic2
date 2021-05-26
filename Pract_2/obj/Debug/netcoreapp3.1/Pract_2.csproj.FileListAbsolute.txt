@@ -1,0 +1,13 @@
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\bin\Debug\netcoreapp3.1\Pract_2.exe
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\bin\Debug\netcoreapp3.1\Pract_2.deps.json
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\bin\Debug\netcoreapp3.1\Pract_2.runtimeconfig.json
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\bin\Debug\netcoreapp3.1\Pract_2.runtimeconfig.dev.json
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\bin\Debug\netcoreapp3.1\Pract_2.dll
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\bin\Debug\netcoreapp3.1\Pract_2.pdb
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\obj\Debug\netcoreapp3.1\Pract_2.csprojAssemblyReference.cache
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\obj\Debug\netcoreapp3.1\Pract_2.AssemblyInfoInputs.cache
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\obj\Debug\netcoreapp3.1\Pract_2.AssemblyInfo.cs
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\obj\Debug\netcoreapp3.1\Pract_2.csproj.CoreCompileInputs.cache
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\obj\Debug\netcoreapp3.1\Pract_2.dll
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\obj\Debug\netcoreapp3.1\Pract_2.pdb
+C:\Users\MaximNagibator228`\source\repos\Pract_2\Pract_2\obj\Debug\netcoreapp3.1\Pract_2.genruntimeconfig.cache
